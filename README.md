@@ -5,3 +5,4 @@ Este es un repositorio de prueba del curso de **procesamiento de datos geografic
 ## Curso introductorio a procesamiento de datos geograficos. 
 Aprender lenguaje de progración [R](https://www.r-project.org/)
 Aprener lenguaje de prograación Markdown [MarckDown](https://markdown.es/)
+![IMAGEN](https://stock.adobe.com/es/collections/lvJYG72x8XFZH2aMzQX3nInMqrjtFNse)
