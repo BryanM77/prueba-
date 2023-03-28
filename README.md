@@ -1,5 +1,7 @@
 # gf0604
 
-Este es un repositorio de prueba del curso de **procesamiento de datos geograficos de la Univeridad de Costa Rica**[Universidad de Costa RICA](https://www.ucr.ac.cr/) 
+Este es un repositorio de prueba del curso de **procesamiento de datos geograficos de la Univeridad de Costa Rica**[Universidad de Costa Rica](https://www.ucr.ac.cr/) 
 
 ## Curso introductorio a procesamiento de datos geograficos. 
+Aprender lenguaje de progración [R](https://www.r-project.org/)
+Aprener lenguaje de prograación Markdown [MarckDown](https://markdown.es/)
