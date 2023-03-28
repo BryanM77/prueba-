@@ -10,4 +10,4 @@ Este es un repositorio de prueba del curso de **procesamiento de datos geografic
 
 ![IMAGEN](https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp)
 
-<img src"https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp" width="300">
+<img src="https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp" width="300">
