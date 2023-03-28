@@ -9,4 +9,5 @@ Este es un repositorio de prueba del curso de **procesamiento de datos geografic
 2.Aprener lenguaje de prograación Markdown [MarckDown](https://markdown.es/)
 
 ![IMAGEN](https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp)
-<img src0"https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp" width=300>
+
+<img src"https://slp-statics.astockcdn.net/static_assets/staging/23winter/home/EMEA/curated-collections/card-2.jpg?width=580&format=webp" width="300">
